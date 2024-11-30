@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a52e00bc-ef32-462f-b78b-c661c6e049b6)
+![image]([https://github.com/user-attachments/assets/a52e00bc-ef32-462f-b78b-c661c6e049b6](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iudigital.edu.co%2F&psig=AOvVaw3e3hAi1eRVPNEHCFOTc6BJ&ust=1733079843148000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDix9jfhIoDFQAAAAAdAAAAABAc))
 
 # Proyecto Integrado III - Analítica de Datos
 
