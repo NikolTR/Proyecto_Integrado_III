@@ -11,7 +11,7 @@ dispositivos móviles entre los usuarios, analizando el
 consumo de aplicaciones, datos, y batería, y cómo estos
 varían según los datos demográficos de edad y género.
 
-Pregunta de investigación:
+#### Pregunta de investigación:
 
 ¿Qué factores (edad, género, número de aplicaciones
 instaladas, uso de batería, consumo de datos) están
@@ -19,7 +19,7 @@ asociados con las variaciones en el comportamiento de
 uso de dispositivos móviles, incluyendo el tiempo de uso
 y los patrones de interacción?
 
-Hipótesis:
+#### Hipótesis:
 
 H1: Los usuarios jóvenes (18-24 años) tienen descargadas
 más aplicaciones en comparación con los usuarios
